@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Teertha001
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Python
